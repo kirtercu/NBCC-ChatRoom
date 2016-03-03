@@ -1,8 +1,8 @@
 #NBCC-ChatRoom
 
 #Description: 
-Based on NBCC database (suppose it is, and i will try to set up somehow like that),_
-students can login to chat with others in class, in program, in college._
+Based on NBCC database (suppose it is, and i will try to set up somehow like that),  
+students can login to chat with others in class, in program, in college.  
 
 #Example:
 A  Junior ITPA student can access to chat with all itpa year 1 students, all itpa students, all it students,_
